@@ -1,0 +1,31 @@
+Summary of each student's fees assessed: 
+
+Rick Reichardt has $3,450 fees assessed 
+Harriet Nelson has $2,350 fees assessed 
+Stanley Park has $3,450 fees assessed 
+Pamela Brown has $3,150 fees assessed 
+June Cleaver has $2,500 fees assessed 
+Martha Piper has $1,900 fees assessed 
+Shirley Muldowney has $2,900 fees assessed 
+Bobby Cheung has $0 fees assessed 
+William Clinton has $100 fees assessed 
+Paul Martin has $100 fees assessed 
+Groucho Marx has $4,600 fees assessed 
+Jessica Wong has $2,050 fees assessed 
+Ulysses Grant has $1,150 fees assessed 
+Vladimir Lenin has $3,400 fees assessed 
+Moe Howard has $2,675 fees assessed 
+Michael Jackson has $100 fees assessed 
+George Bush has $250 fees assessed 
+Keith Utley has $0 fees assessed 
+Larry Fine has $3,450 fees assessed 
+
+
+Summary of all student fees assessed: 
+
+Degree-seeking students without financial assistance: $15,600
+Degree-seeking students with financial assistance: $9,025
+Certificate students: $12,400
+Senior citizens: $550
+
+Total fees assessed: $37,575
